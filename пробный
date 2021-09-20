@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <html>
+   <head>
+    <title>Добрый день!</title>
+      <meta charset="utf-8">
+      <meta name="keyboards" content="мой сайт, html">
+      <meta name="description" content="мой сайт о да">
+      <link rel="shortcut icon" href="https://atom.io/favicon.ico"/>
+    </head>
+    <body>
+      <H1>самый жирный</H1>
+      <H2>таак</H2>
+      <H6>самый мелкий<H6>
+      <p id="ideveloper"> Так для себя пробник замутил  <br> Вот так всё вышло </p>
+      <p>так знаит это так </p>
+      <p>и это <br> вот так </p>
+    сюда<a href="https://kinogo.la/6082-the-strain_4-sezon-24-01.html"target="_blank">Клик сюда </a>
+      <a href="#ideveloper"></a>
+      <ul>
+        <li>Первый элемент </li>
+        <li>Второй элемент </li>
+
+        <hr>
+
+        <table border="1">
+          <thead>
+  <tr>
+    <th>Имена пацанов</th>
+<th>количевство cигарет</th>
+  </tr>
+              </thead>
+              <tbody>
+  <tr> <td>Лёха</td>
+    <td>2 <img src="https://cdn141.picsart.com/329752030054211.png" width="150" height="100" alt=""></td>
+  </tr>
+  <tr>
+    <td>Миша</td>
+    <td>3</td>
+  </tr>
+    </tbody>
+      <tfoot>
+<tr>
+  <td colspan="2">Итог: 5</td>
+</tr>
+</tfoot>
+  </table>
+<img src="https://ih1.redbubble.net/image.1502398524.2963/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" alt="">
+
+<form class="" action="index.html" method="post">
+<input type="text" type="number">
+  <input type="submit" name="" value="Отправить">
+<h2>Напиши сюда фигню</h2>
+
+</form>
+<div class=" ">
+
+</div>
+
+
+
+    </body>
+    </html>
